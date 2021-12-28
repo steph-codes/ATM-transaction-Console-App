@@ -1,0 +1,15 @@
+C:\Users\ogund\Desktop\ATMTRANSACTION\bin\Debug\net6.0\ATMTRANSACTION.exe
+C:\Users\ogund\Desktop\ATMTRANSACTION\bin\Debug\net6.0\ATMTRANSACTION.deps.json
+C:\Users\ogund\Desktop\ATMTRANSACTION\bin\Debug\net6.0\ATMTRANSACTION.runtimeconfig.json
+C:\Users\ogund\Desktop\ATMTRANSACTION\bin\Debug\net6.0\ATMTRANSACTION.dll
+C:\Users\ogund\Desktop\ATMTRANSACTION\bin\Debug\net6.0\ref\ATMTRANSACTION.dll
+C:\Users\ogund\Desktop\ATMTRANSACTION\bin\Debug\net6.0\ATMTRANSACTION.pdb
+C:\Users\ogund\Desktop\ATMTRANSACTION\obj\Debug\net6.0\ATMTRANSACTION.csproj.AssemblyReference.cache
+C:\Users\ogund\Desktop\ATMTRANSACTION\obj\Debug\net6.0\ATMTRANSACTION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogund\Desktop\ATMTRANSACTION\obj\Debug\net6.0\ATMTRANSACTION.AssemblyInfoInputs.cache
+C:\Users\ogund\Desktop\ATMTRANSACTION\obj\Debug\net6.0\ATMTRANSACTION.AssemblyInfo.cs
+C:\Users\ogund\Desktop\ATMTRANSACTION\obj\Debug\net6.0\ATMTRANSACTION.csproj.CoreCompileInputs.cache
+C:\Users\ogund\Desktop\ATMTRANSACTION\obj\Debug\net6.0\ATMTRANSACTION.dll
+C:\Users\ogund\Desktop\ATMTRANSACTION\obj\Debug\net6.0\ref\ATMTRANSACTION.dll
+C:\Users\ogund\Desktop\ATMTRANSACTION\obj\Debug\net6.0\ATMTRANSACTION.pdb
+C:\Users\ogund\Desktop\ATMTRANSACTION\obj\Debug\net6.0\ATMTRANSACTION.genruntimeconfig.cache
